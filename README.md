@@ -2,7 +2,7 @@
 🔭 I’m currently working on Netflix-clone, GamersHub-website<br>👯 I’m looking to collaborate on Web Applications<br>🤝 I’m looking for help with Frontend, Framework, Design, Adobe Apps<br>🌱 I’m currently learning Python Full Stack, Rest API, Django, <br>💬 Ask me about Open Source Projects<br>⚡ Fun fact: "Bug" comes from a real bug
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 ###
 <div align="left">
   <a href="mailto:swayam02072001@gmail.com" target="_blank">
@@ -52,10 +52,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swayam02072001&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swayam02072001&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=swayam02072001&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=swayam02072001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
