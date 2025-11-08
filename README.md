@@ -67,6 +67,12 @@
 
 <img src="https://raw.githubusercontent.com/swayam02072001/swayam02072001/output/snake.svg" alt="Snake animation" />
 
+## 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/swayam02072001/swayam02072001/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/swayam02072001/swayam02072001/output/snake.svg#gh-dark-mode-only)
+
+
 ###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
