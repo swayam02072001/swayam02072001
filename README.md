@@ -71,6 +71,8 @@
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/swayam02072001/swayam02072001/output/snake.gif#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/swayam02072001/swayam02072001/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake](https://raw.githubusercontent.com/swayam02072001/swayam02072001/output/snake.gif)
+
 
 ###
 
