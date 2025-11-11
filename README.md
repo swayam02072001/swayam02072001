@@ -63,13 +63,12 @@
 
 ###
 
-<br clear="both">
-
 ## 🐍 Contribution Snake
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/swayam02072001/swayam02072001/output/snake.gif#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/swayam02072001/swayam02072001/output/snake-dark.svg#gh-dark-mode-only)
 
 ###
+<br clear="both">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
