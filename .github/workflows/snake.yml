@@ -9,22 +9,27 @@ on:
       - main
 
 permissions:
-  contents: write     # ✅ this line gives push permission
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate the snake animation
+      - name: Generate the snake animations (SVG + GIF)
         uses: Platane/snk@v3
         with:
           github_user_name: swayam02072001
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake.gif
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
 
-      - name: Push the snake.svg to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
