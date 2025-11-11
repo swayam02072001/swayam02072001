@@ -2,16 +2,18 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:        # Allows you to trigger manually
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
 
+permissions:
+  contents: write     # ✅ this line gives push permission
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
